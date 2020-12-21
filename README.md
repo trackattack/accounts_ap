@@ -1,4 +1,4 @@
-# accounts_ap
+# Accounts app
 
 The application is a SpringBoot one
 It uses h2 in memory data base
